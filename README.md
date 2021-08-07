@@ -2,8 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hugocesargalvan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhcgalvan&screen_name=hugocesargalvan)
 ## I´m Husband, Father, Developer and Student
-- ⚡I am an advanced student in the economics degree [Faculty of Economics Sciences UNaM](https://www.fce.unam.edu.ar) and a student in Data Sciences at the [Faculty of Exact Sciences UBA](https://lcd.exactas.uba.ar/materias/) .
-- 🌎 I am also really interested in Data Science, Machine Learning, BlockChain and cognitive economics based on data lake.
+- ⚡I am an advanced student in the economics degree [Faculty of Economics Sciences UNaM](https://www.fce.unam.edu.ar), a student in Data Sciences at the [Faculty of Exact Sciences UBA](https://lcd.exactas.uba.ar/materias/), also a student Maching Learning at the [School of Science and Technology UNSAM](http://www.unsam.edu.ar/escuelas/ciencia/) and Python programming at the [Interdisciplinary Artificial Intelligence ECyT UNSAM](http://www.icifi.unsam.edu.ar) .
+- 🌎 I am also really interested in Data Science, IoT, Machine Learning, BlockChain and cognitive economics based on data lake.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to the development of new technological products
