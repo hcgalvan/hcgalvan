@@ -13,7 +13,7 @@
 ### Connect with me:
 [<img align="left" alt="hugocesargalvan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/hugocesargalvan)
 [<img align="left" alt="hcgalvan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/hugocesargalvan)
-
+[<img align="left" alt="hcgalvan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/in/hugocesargalvan)
 
 <br />
 
