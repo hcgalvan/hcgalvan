@@ -1,8 +1,7 @@
 ### Hi there, I´m Hugo 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hugocesargalvan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhcgalvan&screen_name=hugocesargalvan)
-[![Instagran Follow](https://img.shields.io/instagram/follow/hugocesargalvan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhcgalvan&screen_name=hugocesargalvan)
-https://www.instagram.com/hugocesargalvan/
+
 ## I´m Husband, Father, Developer and Student
 - ⚡I am an advanced student in the economics degree [Faculty of Economics Sciences UNaM](https://www.fce.unam.edu.ar), a student in Data Sciences at the [Faculty of Exact Sciences UBA](https://lcd.exactas.uba.ar/materias/), also a student Maching Learning at the [School of Science and Technology UNSAM](http://www.unsam.edu.ar/escuelas/ciencia/) and Python programming at the [Interdisciplinary Artificial Intelligence ECyT UNSAM](http://www.icifi.unsam.edu.ar) .
 - [The HUMAI Institute](https://humai.com.ar/) prepares me in this last stage of Data Sciences, guiding and integrating all phases of AI, giving me freedom of choice.
