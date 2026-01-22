@@ -9,7 +9,6 @@
 - 🌎 I am also really interested in Data Science, IoT, Machine Learning, BlockChain and cognitive economics based on data lake.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to the development of new technological products
 - ⚡ Fun fact: I love to dance and play the guitar.
 ### Connect with me:
 [<img align="left" alt="hugocesargalvan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/hugocesargalvan)
